@@ -48,10 +48,10 @@ const Calculator = () => {
     return (
         <div className="w-full border-t-2 border-b-2 py-10 border">
             <div className="container mx-auto space-y-5">
-                <h1 className="text-[#7000ff] text-4xl font-semibold">
+                <h1 className=" animate__animated animate__zoomIn  text-[#7000ff] text-4xl font-semibold">
                     Currency calculator
                 </h1>
-                <p className="text-2xl font-extralight tracking-[.05em] mt-10">
+                <p className="animate__animated animate__slideInLeft text-2xl font-extralight tracking-[.05em] mt-10">
                     At Apelsin we always use the best rate
                 </p>
                 <br /><br />
